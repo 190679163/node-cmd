@@ -11,12 +11,6 @@
 
 ## Usage
 
-### Importing the Module
-
-```javascript
-import { runCommand } from 'node-cmd';
-```
-
 ### Example Usage
 
 Here’s an example of how to use `node-cmd` to run a Python script:
