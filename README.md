@@ -9,12 +9,6 @@
 - Manages input and output streams efficiently.
 - Provides error handling for command execution.
 
-## Installation
-
-```bash
-npm install node-cmd
-```
-
 ## Usage
 
 ### Importing the Module
